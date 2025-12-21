@@ -12,8 +12,10 @@ through a router, and understand the role of a gateway within a network.
 ## Resources
 ### [Computer Networks by Andrey Sozykin (Youtube - RU)](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
 - Computer networks
-- TCP/IP addressing
+- Protocols & interfaces
 - OSI model
+- Packet forwarding
+- TCP/IP addressing
 - MAC vs IP addressing
 - Role of routers and switches
 ### [You Suck at Subnetting by NetworkChuck (Youtube)](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
