@@ -28,3 +28,5 @@ through a router, and understand the role of a gateway within a network.
 - Default gateway
 - additional Q&A
 
+## Example
+![Exercise example](assets/Screenshot.png)
