@@ -16,7 +16,7 @@ through a router, and understand the role of a gateway within a network.
   - **[Check again]** to verify if your configuration is correct or not.
   - **[Get my config]** to download your configuration.
 
-## Submission Requirements
+### Submission Requirements
 - The repository must contain exactly 10 exported configuration files.
 - Each file corresponds to one NetPractice level.
 - All 10 files must be placed at the root of the repository.
